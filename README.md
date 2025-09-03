@@ -1,6 +1,6 @@
 # Physical Medicine & Rehabilitation Dataset EDA and Preprocessing
 
-**Name:** Yağmur Yilmaz  
+**Name:** Yağmur Yılmaz  
 **Email:** yagmurylmzz02@email.com  
 
 ---
@@ -72,4 +72,4 @@ No model building is required; the focus is on making the data clean, consistent
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/Pusula_Yagmur_Yilmaz.git
+git clone https://github.com/yumoylmz/Pusula_Yagmur_Yilmaz.git
