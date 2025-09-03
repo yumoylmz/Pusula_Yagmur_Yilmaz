@@ -1,7 +1,7 @@
 # Physical Medicine & Rehabilitation Dataset EDA and Preprocessing
 
-**Name:** Yagmur Yilmaz  
-**Email:** example@email.com  
+**Name:** Yağmur Yilmaz  
+**Email:** yagmurylmzz02@email.com  
 
 ---
 
